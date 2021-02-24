@@ -27,7 +27,7 @@ SECRET_KEY = '%c8inbwiymk!pfjuu0gd991eyqd4&8ej%96ycla@_#ttw*^1-x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['leefarmer-django-todo-app.herokuapp.com']
 
 
 # Application definition
